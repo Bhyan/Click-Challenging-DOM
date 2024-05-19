@@ -2,7 +2,7 @@
 
 Desafio técnico para vaga de QA.
 
-O desafio consistia na clicar no elementos web do [site](https://the-internet.herokuapp.com/) na página [Challenging DOM](https://the-internet.herokuapp.com/challenging_dom) utilizando a ferramenta qualquer ferramenta de automação.
+O desafio consistia na clicar no elementos web do [site](https://the-internet.herokuapp.com/) na página [Challenging DOM](https://the-internet.herokuapp.com/challenging_dom) utilizando qualquer ferramenta de automação.
 
 # Ferramenta utilizada
 - [Cypress](https://www.cypress.io/)
