@@ -22,7 +22,7 @@ class ChallengingDom {
   clickAllDeletes() {
     cy.get("a[href='#edit']").then(function (edits) {
       for (let i = 0; i < edits.length; i++) {
-        cy.get("a[href='#edit']").eq(i).click();
+        cy.get("a[href='#delete']").eq(i).click();
       }
     });
   }
